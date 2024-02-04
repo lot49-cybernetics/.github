@@ -1,2 +1,2 @@
-# .github-private
+# .github
 GitHub repo configuration
