@@ -1,3 +1,3 @@
 ## Lot49 Cybernetics
 
-This open source project is in its earliest stages.
+This project is in its earliest stages and initially just contains some open source build tools.
