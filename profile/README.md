@@ -1,3 +1,3 @@
 ## Lot49 Cybernetics
 
-This project is in its earliest stages and initially just contains some open source build tools.
+Lot49 Cybernetics is focused on developing high-quality open source tools and libraries.
